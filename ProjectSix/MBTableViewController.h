@@ -1,5 +1,5 @@
 //
-//  MBViewController.h
+//  MBTableViewController.h
 //  ProjectSix
 //
 //  Created by Marc on 30/08/2014.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface MBViewController : UIViewController
+@interface MBTableViewController : UITableViewController
 
 @end
